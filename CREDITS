@@ -1,0 +1,38 @@
+The Ostrich, Plate VII — a documentary short in the Copperplate Engraving style
+================================================================================
+
+Directed and produced by Super Z (Z.ai agent) with the Lemo-Opuscar library.
+Every frame, every note and every cut was written in code: canvas 2D rendered
+frame by frame in headless Chrome, original score from free sample libraries and
+physical modelling, text-to-speech narration, procedural foley. No video
+generation, no stock footage.
+
+Film
+  ostrich-plate.mp4      1920×1080 · 24 fps · 58 s · −14 LUFS · H.264 + AAC
+  ostrich-plate.srt      subtitles (also burned in)
+  poster.jpg             the finished plate
+
+Third-party assets and licences
+  Fonts (OFL, self-hosted in fonts/):
+    "Bodoni Moda" — Copyright 2011 The Bodoni Moda Project Authors, SIL Open Font License 1.1
+    "Pinyon Script" — Copyright 2022 The Pinyon Script Project Authors (Sorkin Type), SIL Open Font License 1.1
+    (with their file, fonts/OFL.txt)
+
+  Samples (CC0 1.0, unless noted):
+    Harpsichord, harp, recorder, triangle — Versilian Community Sample Library (VCSL), CC0 1.0
+    (https://github.com/sgossner/VCSL)
+    Samples (CC0): Versilian Studios VCSL
+
+  Voice:
+    Kokoro (kokoro-onnx) offline text-to-speech, voice "bm_george", Apache-2.0
+    (https://github.com/thewh1tevale/kokoro-onnx) — synthetic narration, no human recording
+    Speech check: faster-whisper (MIT), model base.en
+
+  Toolchain (the film's production tools, MIT — github.com/lemomo-ai/lemo-opuscar):
+    core/audio/sampler.py, core/audio/sfx.py, core/audio/pluck.py (synthesis only)
+    core/render/* (headless capture, mux, subtitles, checks)
+
+  All other images, sounds, music and text in this film are original works made
+  for this film (CC0 by their maker: Super Z / the running agent).
+
+You are responsible for the materials you use in your own films.

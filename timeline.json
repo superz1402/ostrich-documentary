@@ -1,0 +1,19 @@
+{
+  "bpm": 88,
+  "beat": 0.6818181818181818,
+  "beats_total": 85,
+  "dur": 57.95454545454545,
+  "sections": [
+    { "id": "s0-cut",   "b0": 0,  "b1": 9,  "state": "solo lute, sparse, dry" },
+    { "id": "s1-build", "b0": 9,  "b1": 24, "state": "harpsichord+lute pulse, D minor, pp" },
+    { "id": "s2-legs",  "b0": 24, "b1": 38, "state": "pulse + low octave weight" },
+    { "id": "s3-eye",   "b0": 38, "b1": 53, "state": "rest b38-40.3 (silence); pp re-entry; harp at iris (D major turn)" },
+    { "id": "s4-proof", "b0": 53, "b1": 59, "state": "harp arpeggio up" },
+    { "id": "s5-egg",   "b0": 59, "b1": 71, "state": "harp+lute warm, thinning" },
+    { "id": "s6-plate", "b0": 71, "b1": 85, "state": "recorder joins; final D major chord at b79" }
+  ],
+  "hits": {
+    "peel": 9, "legs_push": 24, "silence": 38, "ring": 40.3, "travel": 45,
+    "iris": 49.1, "roller": 53, "egg": 59, "title": 71, "lock": 79
+  }
+}
