@@ -75,3 +75,11 @@ LIB=/path/to/lemo-opuscar sh /path/to/this/folder/build.sh
 The film and its source: CC0 by the maker. Third-party assets keep their own
 licences — see `CREDITS` (fonts: OFL; samples: CC0; Kokoro: Apache-2.0).
 The engraving engine is from [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) (MIT).
+
+---
+
+## Project status
+
+**Completed project** — verified in the portfolio audit of **7 November 2026** (README, codebase and project state reviewed).
+
+_Last verified: 7 November 2026_
